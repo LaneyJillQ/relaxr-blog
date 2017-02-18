@@ -6,20 +6,19 @@
 body {
   background-color: #f0efef;
 }
+
 .wrapper {
   width: 1000px;
   margin: 0 auto;
-
+}
 h1 {
   font-weight: 800;
-}
 }
 
 .flex {
   display: flex;
   justify-content: space-between;
   align-items: center;
-
 }
 
 .target {
@@ -31,15 +30,14 @@ h1 {
   padding-right: 1rem;
   padding-top: 2rem;
   font-weight: 800;
-
 }
+
 nav ul li {
   display: inline-block;
   color: #f9e42e;
   font-size: 24px;
  padding-left: 20px;
  padding-right: 20px;
-
 }
 
 .action {
@@ -48,14 +46,13 @@ nav ul li {
   padding-top: 0;
   font-weight: 600;
   font-size: 24px;
-
 }
 
 article {
   padding: 1rem 0;
   border-bottom: solid black;
-
 }
+
 h2 {
   padding-bottom: 30px;
   font-size: 40px;
@@ -75,15 +72,16 @@ header {
   padding: 1rem;
   height: 4rem;
 }
+
 .content {
   display: flex;
 padding-bottom: 1rem;
 }
 
-
 main {
   width: 70%;
 }
+
 aside {
   width: 30%;
   padding-left: 30px;
@@ -94,7 +92,6 @@ aside ul li {
   list-style-type: none;
   font-size: 24px;
   font-weight: 300;
-
 }
 
 aside ul {
@@ -119,13 +116,13 @@ button {
  display: block;
  margin: 0 auto;
  color: white;
+ background-color: #033048;
 }
 
 .action2 {
   font-weight: 600;
   padding: 0;
   font-size: 22px;
-
 }
 
 .above {
@@ -158,14 +155,12 @@ footer {
 
 p {
   padding-top: 30px;
-
 }
 
 .about {
   padding-top: 0;
   font-size: 22px;
   font-weight: 300;
-
 }
 
 .ad {
